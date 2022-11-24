@@ -62,4 +62,4 @@ The first 4 tools are in `Graphics` folder, `SoundMaker` is in `Audio` folder.
 
 -----
 
-[Download](https://github.com/sysven32/Nintendo-SDK-Tools/releases)
+[Download](https://github.com/sysven32/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
