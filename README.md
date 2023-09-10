@@ -48,7 +48,7 @@ A collection of development tools for Wii, 3DS, Wii U & Switch.
 
 <details>
 
-The first 4 tools are in `Graphics` folder, `SoundMaker` is in `Audio` folder.
+The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` folder.
 
 </details>
 
@@ -62,4 +62,4 @@ The first 4 tools are in `Graphics` folder, `SoundMaker` is in `Audio` folder.
 
 -----
 
-[Download](https://github.com/sysven32/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
+[Download (849 MB)](https://github.com/LinuxMint64/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
