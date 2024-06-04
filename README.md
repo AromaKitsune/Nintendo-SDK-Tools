@@ -24,7 +24,14 @@ A collection of development tools for Wii, 3DS, Wii U & Switch.
 
 <details>
 
-`ctr_FontConverter` exports fonts as `BCFNT`, `NW_FontConverter` exports fonts as `BFFNT`.
+`ctr_FontConverter` exports fonts as `BCFNT`, a binary CTR font used in many games.
+
+`NW_FontConverter` exports fonts as `BFFNT`, a binary Café font used in Mario & Luigi:
+* Paper Jam (Bros.)
+* Superstar Saga + Bowser's Minions
+* Bowser's Inside Story + Bowser Jr.'s Journey
+
+Not compatible with Wii U and Switch games, so use the font converter tools below instead.
 
 </details>
 
@@ -62,4 +69,4 @@ The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` f
 
 -----
 
-[Download (849 MB)](https://github.com/LinuxMint64/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
+[Download (849 MB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
