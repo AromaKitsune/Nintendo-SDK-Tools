@@ -47,7 +47,7 @@ Not compatible with Wii U and Switch games, so use the font converter tools belo
 ---
 
 ### NX
-* 3dEditor
+* 3DEditor
 * EffectMaker
 * FontConverter
 * LayoutEditor
@@ -61,7 +61,7 @@ The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` f
 
 ---
 
-### Wave Audio Converters
+### Wave Audio Converter Tools
 * **RVL**: `CommandLineTools` → `nw4r_waveconv.exe`
 * **CTR**: `CommandLineTools` → `ctr_WaveConverter32.exe`
 * **Café**: `SoundMaker` → `NW4F_WaveConverter.exe`
