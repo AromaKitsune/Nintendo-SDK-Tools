@@ -61,11 +61,11 @@ The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` f
 
 ---
 
-### Audio Wave Converters
-* **RVL**: `CommandLineTools → nw4r_waveconv.exe`
-* **CTR**: `CommandLineTools → ctr_WaveConverter32.exe`
-* **Café**: `SoundMaker → NW4F_WaveConverter.exe`
-* **NX**: `Audio → AtkTools → WaveConverter.exe`
+### Wave Audio Converters
+* **RVL**: `CommandLineTools` → `nw4r_waveconv.exe`
+* **CTR**: `CommandLineTools` → `ctr_WaveConverter32.exe`
+* **Café**: `SoundMaker` → `NW4F_WaveConverter.exe`
+* **NX**: `Audio` → `AtkTools` → `WaveConverter.exe`
 
 ---
 
