@@ -8,13 +8,13 @@ A collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
 * 3DEditor
 * EffectMaker
 * LayoutEditor
-* nw4r_fontcvtr
+* NW4R_fontcvtr
 * SoundMaker
 
 ---
 
 ### CTR
-* ctr_FontConverter
+* CTR_FontConverter
 * NW4C_3DEditor
 * NW4C_SoundMaker
 * NW_EffectMaker
@@ -24,7 +24,7 @@ A collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
 
 <details>
 
-`ctr_FontConverter` exports fonts as `BCFNT`, a binary CTR font used in many games.
+`CTR_FontConverter` exports fonts as `BCFNT`, a binary CTR font used in many games.
 
 `NW_FontConverter` exports fonts as `BFFNT`, a binary Café font used in Mario & Luigi:
 * Paper Jam (Bros.)
