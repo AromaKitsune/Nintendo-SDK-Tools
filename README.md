@@ -1,8 +1,8 @@
 # Nintendo SDK Tools
 
-A collection of development tools for Wii, 3DS, Wii U & Switch.
+A collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
 
------
+---
 
 ### Revolution
 * 3DEditor
@@ -11,7 +11,7 @@ A collection of development tools for Wii, 3DS, Wii U & Switch.
 * nw4r_fontcvtr
 * SoundMaker
 
------
+---
 
 ### CTR
 * ctr_FontConverter
@@ -35,7 +35,7 @@ Not compatible with Wii U and Switch games, so use the font converter tools belo
 
 </details>
 
------
+---
 
 ### Café
 * NW4F_3DEditor
@@ -44,7 +44,7 @@ Not compatible with Wii U and Switch games, so use the font converter tools belo
 * NW4F_SoundMaker
 * NW_EffectMaker
 
------
+---
 
 ### NX
 * 3dEditor
@@ -59,7 +59,7 @@ The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` f
 
 </details>
 
------
+---
 
 ### Audio Wave Converters
 * **RVL**: `CommandLineTools → nw4r_waveconv.exe`
@@ -67,6 +67,6 @@ The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` f
 * **Café**: `SoundMaker → NW4F_WaveConverter.exe`
 * **NX**: `Audio → AtkTools → WaveConverter.exe`
 
------
+---
 
 [Download (849 MB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
