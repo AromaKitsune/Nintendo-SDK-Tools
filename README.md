@@ -1,6 +1,12 @@
 # Nintendo SDK Tools
 
-A collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
+A simple collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
+
+For complete collection of Nintendo SDK's with everything, check out [Rare Gaming Dump](https://groups.google.com/forum/#!forum/rgd-members).
+
+Google account is required. To access Rare Gaming Dump's shared drive, click "Ask to join group".
+
+I am not affiliated with Rare Gaming Dump in any way.
 
 ---
 
