@@ -10,7 +10,7 @@ I am not affiliated with Rare Gaming Dump in any way.
 
 ---
 
-### Revolution
+### Revolution - Wii
 * 3DEditor
 * EffectMaker
 * LayoutEditor
@@ -19,7 +19,7 @@ I am not affiliated with Rare Gaming Dump in any way.
 
 ---
 
-### CTR
+### CTR - 3DS
 * CTR_FontConverter
 * NW4C_3DEditor
 * NW4C_SoundMaker
@@ -43,7 +43,7 @@ Not compatible with Wii U and Switch games, so use the font converter tools belo
 
 ---
 
-### Café
+### Café - Wii U
 * NW4F_3DEditor
 * NW4F_FontConverter
 * NW4F_LayoutEditor
@@ -52,7 +52,7 @@ Not compatible with Wii U and Switch games, so use the font converter tools belo
 
 ---
 
-### NX
+### NX - Nintendo Switch
 * 3DEditor
 * EffectMaker
 * FontConverter
