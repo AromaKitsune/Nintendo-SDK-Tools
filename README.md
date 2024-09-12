@@ -33,7 +33,7 @@ I am not affiliated with Rare Gaming Dump in any way.
 `CTR_FontConverter` exports fonts as `BCFNT`, a binary CTR font used in many games.
 
 `NW_FontConverter` exports fonts as `BFFNT`, a binary Café font used in the following games:
-* PMario & Luigi: Paper Jam (Bros.)
+* Mario & Luigi: Paper Jam (Bros.)
 * Mario & Luigi: Superstar Saga + Bowser's Minions
 * Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
 * Rhythm Heaven/Paradise Megamix
