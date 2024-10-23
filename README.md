@@ -4,9 +4,11 @@ A simple collection of development tools for Wii, 3DS, Wii U, and Nintendo Switc
 
 For complete collection of Nintendo SDK's with everything, check out [Rare Gaming Dump](https://groups.google.com/forum/#!forum/rgd-members).
 
-Google account is required. To access Rare Gaming Dump's shared drive, click "Ask to join group".
+Google account is required. To access Rare Gaming Dump's shared drive, click "Ask to join group", it will take a few days to have your access granted.
 
 I am not affiliated with Rare Gaming Dump in any way.
+
+We also have a [backup page on Rentry](https://rentry.co/Nintendo-SDK-Tools) - make sure to bookmark it! :)
 
 ---
 
@@ -77,3 +79,5 @@ The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` f
 ---
 
 [Download (849 MB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
+
+[Mirror](https://drive.google.com/file/d/1Xc5f_Rr-nq7j7pnFwrLi0HOt_LiqYy-A/view?usp=sharing)
