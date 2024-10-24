@@ -42,19 +42,15 @@ We also have a [backup page on Rentry](https://rentry.co/Nintendo-SDK-Tools) - m
 * NW_LayoutEditor
 * PCViewer
 
-<details>
-
 `CTR_FontConverter` exports fonts as `BCFNT`, a binary CTR font used in many games.
 
 `NW_FontConverter` exports fonts as `BFFNT`, a binary Café font used in the following games:
-* Mario & Luigi: Paper Jam (Bros.)
+* Rhythm Heaven Megamix (US) / Rhythm Paradise Megamix (EU)
+* Mario & Luigi: Paper Jam (US) / Mario & Luigi: Paper Jam Bros. (EU)
 * Mario & Luigi: Superstar Saga + Bowser's Minions
 * Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
-* Rhythm Heaven/Paradise Megamix
 
 Not compatible with Wii U and Switch games, so use the font converter tools below instead.
-
-</details>
 
 ---
 
@@ -74,11 +70,7 @@ Not compatible with Wii U and Switch games, so use the font converter tools belo
 * LayoutEditor
 * SoundMaker
 
-<details>
-
 The first 4 tools are in the `Graphics` folder, `SoundMaker` is in the `Audio` folder.
-
-</details>
 
 ---
 
