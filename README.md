@@ -2,6 +2,10 @@
 
 A simple collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
 
+[Download (849 MiB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
+
+[Mirror](https://drive.google.com/file/d/1Xc5f_Rr-nq7j7pnFwrLi0HOt_LiqYy-A/view?usp=sharing)
+
 I am not affiliated with Nintendo in any way.
 
 We also have a [backup page on Rentry](https://rentry.co/Nintendo-SDK-Tools) - make sure to bookmark it! :)
